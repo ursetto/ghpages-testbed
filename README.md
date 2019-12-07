@@ -1,2 +1,3 @@
-# ghpages-testbed
-GitHub pages testbed
+# ghpages-testbed README
+
+A GitHub pages testbed
