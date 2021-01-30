@@ -1,6 +1,6 @@
 # Github pages testbed
 
-This is a testbed. Lorum ipsum, etc. See it on [GitHub Pages](https://ursetto.github.io/ghpages-testbed) aka [site.url]({{ site.github.url }}). During local testing, `site.url` incorrectly points to 404 URL https://github.com/pages/ursetto/ghpages-testbed, but it works find on GitHub.
+This is a testbed. Lorum ipsum, etc. See it on [GitHub Pages](https://ursetto.github.io/ghpages-testbed) aka [site.url]({{ site.github.url }}). During local testing, `site.url` incorrectly points to 404 URL https://github.com/pages/ursetto/ghpages-testbed, but it works fine on GitHub.
 
 ## Notes
 
