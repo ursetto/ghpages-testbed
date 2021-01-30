@@ -29,13 +29,13 @@ gem "github-pages", "~> 211", group: :jekyll_plugins
 
 where 211 comes from [Dependency versions](https://pages.github.com/versions/). This contains the correct version of Jekyll and every Github Pages plugin needed including themes. 
 
-It's unclear if committing the Gemfile and/or Gemfile.lock will affect the build process on github.com. This could be tested by creating an invalid gemfile and pushing.
-
 Install gems once:
 
 ```sh
 bundle install
 ```
+
+You can commit the Gemfile and Gemfile.lock. It will not affect the build process on github.com.
 
 Serve site locally:
 
